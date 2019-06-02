@@ -1,2 +1,2 @@
 # WebPage
-WebPage "pbcAcademy"
+### WebPage "pbcAcademy" sample case
